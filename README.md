@@ -1,4 +1,11 @@
 # Interactive Quiz Game
+# E-commerce Product Page
+Name: Venkatareddy Mohan
+company:extion infotech
+domain:web development
+duration:01/07/2024 to 01/08/2024
+mentor:Harsh extion
+
 
 ## Objective
 Create an interactive quiz game that tests users' knowledge with multiple-choice questions.
