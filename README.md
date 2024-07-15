@@ -1,5 +1,4 @@
 # Interactive Quiz Game
-# E-commerce Product Page
 Name: Venkatareddy Mohan
 company:extion infotech
 domain:web development
